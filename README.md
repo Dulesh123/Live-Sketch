@@ -28,19 +28,19 @@ It enables multiple users to draw, sketch, and collaborate live on a shared canv
 ## 📸 Screenshots  
 
 ### Landing Page
-![Landing](./screenshots/Home_page.png)
+(./screenshots/Home_Page.png)
 
 ### Sign Up
-![Sign Up](./screenshots/Screenshot2.png)
+(./screenshots/Signup_Page.png)
 
 ### Sign In
-![Sign In](./screenshots/Screenshot3.png)
+(./screenshots/Signin_Page.png)
 
 ### Room Join / Create
-![Room](./screenshots/Screenshot4.png)
+(./screenshots/Room_Page.png)
 
 ### Collaborative Canvas
-![Canvas](./screenshots/Screenshot5.png)
+(./screenshots/Canvas_Page'.png)
 
 ---
 
