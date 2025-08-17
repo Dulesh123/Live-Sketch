@@ -39,7 +39,7 @@ It enables multiple users to draw, sketch, and collaborate live on a shared canv
 ![Room Join/Create](https://github.com/Dulesh123/Live-Sketch/blob/main/screenshots/Room_Page.png)
 
 ### Collaborative Canvas
-![Collaborative Canvas](https://github.com/Dulesh123/Live-Sketch/blob/main/screenshots/Canvas_Page.png)
+![Collaborative Canvas](https://github.com/Dulesh123/Live-Sketch/blob/main/screenshots/Canvas_Page'.png)
 
 ## ⚡ Getting Started
 
