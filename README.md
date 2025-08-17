@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Turborepo starter
 
 This Turborepo starter is maintained by the Turborepo core team.
@@ -133,3 +134,7 @@ Learn more about the power of Turborepo:
 - [Filtering](https://turborepo.com/docs/crafting-your-repository/running-tasks#using-filters)
 - [Configuration Options](https://turborepo.com/docs/reference/configuration)
 - [CLI Usage](https://turborepo.com/docs/reference/command-line-reference)
+=======
+# Live-Sketch
+Real-time Collaborative Canvas App
+>>>>>>> d0e0f854d8385aa0c2366200cc94cb64b5338103
