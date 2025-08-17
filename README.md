@@ -28,7 +28,7 @@ It enables multiple users to draw, sketch, and collaborate live on a shared canv
 ## 📸 Screenshots  
 
 ### Landing Page
-(./screenshots/Home_Page.png)
+(https://github.com/Dulesh123/Live-Sketch/blob/main/screenshots/Home_Page.png)
 
 ### Sign Up
 (./screenshots/Signup_Page.png)
