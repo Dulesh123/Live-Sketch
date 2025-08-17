@@ -28,7 +28,7 @@ It enables multiple users to draw, sketch, and collaborate live on a shared canv
 ## 📸 Screenshots  
 
 ### Landing Page
-![Landing](./screenshots/Screenshot1.png)
+![Landing](./screenshots/Home_page.png)
 
 ### Sign Up
 ![Sign Up](./screenshots/Screenshot2.png)
